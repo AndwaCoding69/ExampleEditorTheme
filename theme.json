@@ -3,9 +3,9 @@
     "name": "Original",
     "description": "Example external theme for the editor",
     "author": "andra",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "colors": {
-        "primary": "#CEAC31",
+        "primary": "#FFFFFF",
         "secondary": "#CEAC31",
         "quaternary": "#008000",
         "tertiary": "#FFFF00",
