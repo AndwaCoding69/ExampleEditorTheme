@@ -3,10 +3,10 @@
     "name": "Original",
     "description": "Example external theme for the editor",
     "author": "andra",
-    "version": "3.0.3",
+    "version": "3.0.3.1",
     "colors": {
         "primary": "#FFFFFF",
-        "secondary": "#A99B42",
+        "secondary": "#FFFFFF",
         "quaternary": "#008000",
         "tertiary": "#FFFF00",
         "error": "#FF0000",
